@@ -1,5 +1,5 @@
 
-  [![License: GNU AGPLv3](https://img.shields.io/badge/License-GNU AGPLv3-yellow.svg)](https://https://choosealicense.com/licenses/agpl-3.0/)
+  [![License: GNU AGPLv3](https://img.shields.io/badge/License-GNU%20AGPLv3-yellow.svg)](https://https://choosealicense.com/licenses/agpl-3.0/)
   # The OFFICE Project
 
   ## Description
@@ -31,5 +31,5 @@
   To test this project please follow thest steps: step 1, step 2.
 
   ## Questions
-  If you have any further questions regarding this project please email: [Dwight.schrute@dundermifflin.com](mailto:Dwight.schrute@dundermifflin.com?subject=[Question]%20The%20OFFICE Project).
+  If you have any further questions regarding this project please email: [Dwight.schrute@dundermifflin.com](mailto:Dwight.schrute@dundermifflin.com?subject=[Question]%20The%20OFFICE%20Project).
 
